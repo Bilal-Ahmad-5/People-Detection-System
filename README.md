@@ -1,4 +1,5 @@
-People Counter with DETR Object Detection
+**People Counter with DETR Object Detection**
+
 This project implements a real-time people counter using Facebook's DETR (DEtection TRansformer) object detection model. It tracks people across video frames, counts entries/exits across a defined line, and visualizes movement paths.
 
 Features
